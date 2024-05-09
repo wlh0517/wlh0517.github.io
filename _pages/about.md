@@ -23,7 +23,7 @@ I'm a third year Ph.D student in [TMAK Lab](https://www-a2.is.tokushima-u.ac.jp/
 I am very fortunate to be advised by [Prof. Fuji Ren](http://pub2.db.tokushima-u.ac.jp/ERD/person/19966/profile-ja.html), [Prof. Xin Kang](http://pub2.db.tokushima-u.ac.jp/ERD/person/292960/profile-ja.html) and [Prof. Kazuyuki Matsumoto](http://pub2.db.tokushima-u.ac.jp/ERD/person/174482/profile-ja.html) My research interest includes computer vision, affective computing, deep learning, and multimodal.
 
 
-
+<!--
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -59,3 +59,4 @@ I am very fortunate to be advised by [Prof. Fuji Ren](http://pub2.db.tokushima-u
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+-->
