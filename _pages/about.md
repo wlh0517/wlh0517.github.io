@@ -51,8 +51,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 -->
 
 - ``ICASSP 2024(Oral)`` **Wang L**, Kang X, Ding F, et al. MSSTNet: A Multi-Scale Spatio-Temporal CNN-Transformer Network for Dynamic Facial Expression Recognition[C]//ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2024: 3015-3019. (CCF-B) <br>[[HTML]](https://doi.org/10.1109/ICASSP48485.2024.10446699) [[PDF]](https://arxiv.org/abs/2404.08433)
-- ``PRCV 2023`` **Wang L**, Kang X, Nakagawa S, et al. CenterMatch: A Center Matching Method for Semi-supervised Facial Expression Recognition[C]//Chinese Conference on Pattern Recognition and Computer Vision (PRCV). Singapore: Springer Nature Singapore, 2023: 371-383. (CCF-C)
-[[HTML]](https://link.springer.com/chapter/10.1007/978-981-99-8537-1_30)
+- ``PRCV 2023`` **Wang L**, Kang X, Nakagawa S, et al. CenterMatch: A Center Matching Method for Semi-supervised Facial Expression Recognition[C]//Chinese Conference on Pattern Recognition and Computer Vision (PRCV). Singapore: Springer Nature Singapore, 2023: 371-383. (CCF-C) <br>[[HTML]](https://link.springer.com/chapter/10.1007/978-981-99-8537-1_30)
 
 
 <!--
