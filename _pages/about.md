@@ -44,7 +44,9 @@ I am very fortunate to be advised by [Prof. Fuji Ren](http://pub2.db.tokushima-u
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-- ``ICASSP 2021`` [Denoising Text to Speech with Frame-Level Noise Modeling](https://arxiv.org/abs/2012.09547), Chen Zhang, **Yi Ren**, Xu Tan, et al. \| [**Project**](https://speechresearch.github.io/denoispeech/)
+- ``ICASSP 2024(Oral)`` **Wang L**, Kang X, Ding F, et al. MSSTNet: A Multi-Scale Spatio-Temporal CNN-Transformer Network for Dynamic Facial Expression Recognition[C]//ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2024: 3015-3019. (CCF-B)
+[[HTML]](https://doi.org/10.1109/ICASSP48485.2024.10446699) [[PDF]](https://arxiv.org/abs/2404.08433)
+
 
 <!--
 
