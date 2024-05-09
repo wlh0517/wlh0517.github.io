@@ -32,6 +32,8 @@ I am very fortunate to be advised by [Prof. Fuji Ren](http://pub2.db.tokushima-u
 -->
 - *2024.05* Our paper has been accepted by the journal *Applied Soft Computing* (JCR:Q1).
 - *2024.03* Our paper has been accepted by IJCNN 2024 (CCF-C)."
+
+
 # 📝 Publications 
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?hl=zh-CN&user=4RFpNHsAAAAJ).
