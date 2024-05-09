@@ -30,7 +30,7 @@ I am very fortunate to be advised by [Prof. Fuji Ren](http://pub2.db.tokushima-u
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
-
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -42,10 +42,12 @@ I am very fortunate to be advised by [Prof. Fuji Ren](http://pub2.db.tokushima-u
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
+-->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 - ``ICASSP 2024(Oral)`` **Wang L**, Kang X, Ding F, et al. MSSTNet: A Multi-Scale Spatio-Temporal CNN-Transformer Network for Dynamic Facial Expression Recognition[C]//ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2024: 3015-3019. (CCF-B)
 [[HTML]](https://doi.org/10.1109/ICASSP48485.2024.10446699) [[PDF]](https://arxiv.org/abs/2404.08433)
+- ``PRCV 2023`` **Wang L**, Kang X, Nakagawa S, et al. CenterMatch: A Center Matching Method for Semi-supervised Facial Expression Recognition[C]//Chinese Conference on Pattern Recognition and Computer Vision (PRCV). Singapore: Springer Nature Singapore, 2023: 371-383. (CCF-C)
+[[HTML]](https://link.springer.com/chapter/10.1007/978-981-99-8537-1_30)
 
 
 <!--
