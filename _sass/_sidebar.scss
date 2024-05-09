@@ -71,6 +71,7 @@
 .profile_box{
   @include breakpoint($large) {
     display: block;
+    background-color: #FF00FF;
   }
   background-color: #f00;
   display: flex;
@@ -83,6 +84,7 @@
   display: table-cell;
   vertical-align: top;
   width: 75px;
+  background-color: #4B0082;
   // set width only, for non-square avatars
   // height: 36px;
 
@@ -111,6 +113,7 @@
   min-width: 120px;
   // padding-right: 25px;
   line-height: 1;
+  background-color: #FF8C00;
 
   @include breakpoint($large) {
     display: block;
