@@ -20,7 +20,7 @@ redirect_from:
 I'm a third year Ph.D student in [TMAK Lab](https://www-a2.is.tokushima-u.ac.jp/members) at [Graduate School of Advanced Technology and Science](https://www.is.tokushima-u.ac.jp/wp/), [Tokushima University](https://www.tokushima-u.ac.jp/). I received my bachelor's and master's degrees from [Nanjing University](https://www.nju.edu.cn/), supervised by Prof. Qimei Chen and Assoc. Prof. Yaduan Ruan.
 
 
-I am very fortunate to be advised by [Prof. Fuji Ren](http://pub2.db.tokushima-u.ac.jp/ERD/person/19966/profile-ja.html), [Prof. Xin Kang](http://pub2.db.tokushima-u.ac.jp/ERD/person/292960/profile-ja.html) and [Prof. Kazuyuki Matsumoto](http://pub2.db.tokushima-u.ac.jp/ERD/person/174482/profile-ja.html) My research interest includes computer vision, affective computing, deep learning, and multimodal.
+I am very fortunate to be advised by [Prof. Fuji Ren](http://pub2.db.tokushima-u.ac.jp/ERD/person/19966/profile-ja.html), [Assoc. Prof. Xin Kang](http://pub2.db.tokushima-u.ac.jp/ERD/person/292960/profile-ja.html) and [Assoc. Prof. Kazuyuki Matsumoto](http://pub2.db.tokushima-u.ac.jp/ERD/person/174482/profile-ja.html) My research interest includes computer vision, affective computing, deep learning, and multimodal.
 
 
 
