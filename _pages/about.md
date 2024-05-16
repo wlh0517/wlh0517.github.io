@@ -22,6 +22,8 @@ I'm a third year Ph.D student in [TMAK Lab](https://www-a2.is.tokushima-u.ac.jp/
 
 I am very fortunate to be advised by [Prof. Fuji Ren](http://pub2.db.tokushima-u.ac.jp/ERD/person/19966/profile-ja.html), [Assoc. Prof. Xin Kang](http://pub2.db.tokushima-u.ac.jp/ERD/person/292960/profile-ja.html) and [Assoc. Prof. Kazuyuki Matsumoto](http://pub2.db.tokushima-u.ac.jp/ERD/person/174482/profile-ja.html) My research interest includes computer vision, affective computing, deep learning, and multimodal.
 
+<b>I will be receiving my PhD in September 2024. I am actively seeking a full-time position. If you have any suitable openings, please contact me at wlh156423@163.com.</b>
+
 
 
 
